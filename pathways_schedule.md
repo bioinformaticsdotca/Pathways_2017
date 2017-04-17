@@ -21,7 +21,7 @@ home: https://bioinformaticsdotca.github.io/pathways_2017
 | 12:30 | <font color="green">*Lunch*</font> | 12:30 | <font color="green">*Lunch*</font> | 12:30 | **Survey and Closing Remarks** |
 | 1:30 | <font color="blue">Module 2 Lab</font> | 1:30 | <font color="purple">Module 5: Gene Function Prediction (Quaid)</font> | | |
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> | | |
-| 3:30 | <font color="purple">Module 3: Network Visualization and Analysis with Cytoscape (Veronique)</font> | 3:30 | <font color="blue">Module 5 Lab (Veronique)</font>> |
+| 3:30 | <font color="purple">Module 3: Network Visualization and Analysis with Cytoscape (Veronique)</font> | 3:30 | <font color="blue">Module 5 Lab (Veronique)</font> |
 | 4:15 | <font color="blue">Module 3 Lab</font> | | | | |
 | 5:00 | <font color="green">*Dinner*</font> | 5:00 | <font color="green">*Dinner*</font> | | |
 | 6:00 |  **Integrated Assignment** | 7:00 | **Integrated Assignment** |
