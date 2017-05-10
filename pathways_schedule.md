@@ -15,9 +15,9 @@ home: https://bioinformaticsdotca.github.io/pathways_2017
 | | **Monday, June 26** | | **Tuesday, June 27** | | **Wednesday, June 28** |
 | 8:00 | <font color="green">*Registration and Breakfast*</font> | 8:30 | <font color="green">*Breakfast*</font> | 8:30 | <font color="green">*Breakfast*</font> |
 | 8:30 | <font color="purple">Welcome (Ann)</font> | | | | |  
-| 9:00 | <font color="purple">Module 1: Introduction to Pathway and Network Analysis (Gary)</font> | 9:00 | <font color="purple">Module 4: More Depth on Network and Pathway Analysis (Robin)</font> | 9:00 | <font color="purple">Module 6: Regulatory Network Analysis (Michael)</font> |
+| 9:00 | <font color="purple">Module 1: Introduction to Pathway and Network Analysis (Gary)</font> | 9:00 | <font color="purple">Module 4: More Depth on Network and Pathway Analysis (Robin)</font> | 9:00 | <font color="purple">Module 6: Regulatory Network Analysis (Wyeth)</font> |
 | 10:30 | <font color="green">*Coffee Break*</font> | 10:00 | <font color="green">*Coffee Break*</font> | 10:30 | <font color="green">*Coffee Break*</font> |
-| 11:00 | <font color="purple">Module 2: Finding Over-Represented Pathways (Gary)</font> | 10:30 | <font color="blue">Module 4 Lab</font> | 11:00 |  <font color="blue">Module 6 Lab (Veronique)</font> |
+| 11:00 | <font color="purple">Module 2: Finding Over-Represented Pathways (Quaid)</font> | 10:30 | <font color="blue">Module 4 Lab</font> | 11:00 |  <font color="blue">Module 6 Lab (Veronique)</font> |
 | 12:30 | <font color="green">*Lunch*</font> | 12:30 | <font color="green">*Lunch*</font> | 12:30 | **Survey and Closing Remarks** |
 | 1:30 | <font color="blue">Module 2 Lab</font> | 1:30 | <font color="purple">Module 5: Gene Function Prediction (Quaid)</font> | | |
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> | | |
