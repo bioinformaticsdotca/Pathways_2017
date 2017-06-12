@@ -12,19 +12,19 @@ Read these before coming to the workshop:
 
 * [iRegulon: From a Gene List to a Gene Regulatory Network Using Large Motif and Track Collections](http://www.ncbi.nlm.nih.gov/pubmed/25058159)
   
-  * [The GeneMANIA prediction server: biological network integration for gene prioritization and predicting gene function](http://www.ncbi.nlm.nih.gov/pubmed/20576703)
+* [The GeneMANIA prediction server: biological network integration for gene prioritization and predicting gene function](http://www.ncbi.nlm.nih.gov/pubmed/20576703)
   
-  * [GeneMANIA Prediction Server 2013 Update](http://www.ncbi.nlm.nih.gov/pubmed/23794635)
+* [GeneMANIA Prediction Server 2013 Update](http://www.ncbi.nlm.nih.gov/pubmed/23794635)
   
-  * [How to visually interpret biological data using networks](http://www.ncbi.nlm.nih.gov/pubmed/19816451)
+* [How to visually interpret biological data using networks](http://www.ncbi.nlm.nih.gov/pubmed/19816451)
   
-  * [g:Profiler--a web-based toolset for functional profiling of gene lists from large-scale experiments](http://www.ncbi.nlm.nih.gov/pubmed/17478515)
+* [g:Profiler--a web-based toolset for functional profiling of gene lists from large-scale experiments](http://www.ncbi.nlm.nih.gov/pubmed/17478515)
   
-  * [g:Profiler--a web server for functional interpretation of gene lists (2011 update)](http://www.ncbi.nlm.nih.gov/pubmed/21646343)
+* [g:Profiler--a web server for functional interpretation of gene lists (2011 update)](http://www.ncbi.nlm.nih.gov/pubmed/21646343)
   
-  * [Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles](http://www.ncbi.nlm.nih.gov/pubmed/16199517)
+* [Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles](http://www.ncbi.nlm.nih.gov/pubmed/16199517)
   
-  * [Expression data analysis with reactome](http://www.ncbi.nlm.nih.gov/pubmed/25754994)  
+* [Expression data analysis with reactome](http://www.ncbi.nlm.nih.gov/pubmed/25754994)  
 
 Do these before coming to the workshop:
 
