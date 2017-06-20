@@ -79,8 +79,8 @@ Within all apps, search for the following and install:
 8) Install the data set within GeneMANIA.
 
 Select GeneMania from Apps Manager and Choose Another Data Set.  
-From the list of available data sets, select the most recent (2014-08-12/1 June 2014) and under ‘Include only these networks’: select ‘all’. Click on ‘Download’.  
-An ‘Install Window’ will pop-up. Select H.Sapiens Human (2384 MB). Click on ‘Install’.  
+From the list of available data sets, select the most recent (2017-03-17 / 17 March 2017) and under ‘Include only these networks’: select ‘all’. Click on ‘Download’.  
+An ‘Install Window’ will pop-up. Select H.Sapiens Human. Click on ‘Install’.  
 This requires time and a good network connection to download completely, so be patient (around 15mins).  
 
   
@@ -90,7 +90,7 @@ Go to the [GSEA page](http://www.broadinstitute.org/gsea/index.jsp)
 Register  
 Login  
 In menu, choose Downloads  
-Go to the javaGSEA Java Jar file section and download the gsea2-2.2.3.jar file and save in your Documents folder (do not leave it in the “Downloads”folder).  
+Go to the javaGSEA Java Jar file section and download the gsea2-2.2.4.jar file and save in your Documents folder (do not leave it in the “Downloads”folder).  
  
 To run GSEA during the workshop, you must use the command line. You will need to open a terminal and execute the install commands. Since we will need to run GSEA this same way each time, it will be a good idea to save this information on how to run GSEA.
  
@@ -100,7 +100,7 @@ To run GSEA during the workshop, you must use the command line. You will need to
 * At the prompt, type the command in your terminal window and hit enter:
 
 ```
-java -Xmx2G -jar ~/Documents/gsea2-2.2.3.jar
+java -Xmx2G -jar ~/Documents/gsea2-2.2.4.jar
 ```
 
 **PC/Windows Computer** 
@@ -110,5 +110,5 @@ java -Xmx2G -jar ~/Documents/gsea2-2.2.3.jar
 
 ```
 cd Documents
-java -Xmx2G -jar gsea2-2.2.3.jar
+java -Xmx2G -jar gsea2-2.2.4.jar
 ```
