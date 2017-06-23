@@ -49,7 +49,7 @@ Ranks: [MesenchymalvsImmunoreactive_RNAseq_ranks.rnk](https://github.com/bioinfo
 
 Classes: [MesenchymalvsImmunoreactive_RNAseq_classes.cls](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module3_lab/EM_gProfiler_data/MesenchymalvsImmunoreactive_RNAseq_classes.cls)
 
-Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2017_workshops/pathways/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
+Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip (https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/Pathways_2017/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
 Unzip the .gmt file before using it. 
 
 ## Step 1
