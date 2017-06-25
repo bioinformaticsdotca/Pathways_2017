@@ -98,7 +98,7 @@ Create an EnrichmentMap
 
 ![EM17](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM17.png?raw=true)
 
-![EM17v](https://github.com/bioinformaticsdotca/Pathways_2017/img/EM17.png?raw=true)
+![EM17](https://github.com/bioinformaticsdotca/Pathways_2017/img/EM17.png?raw=true)
  
 2c. Click on *Build* button at the bottom of the Enrichment Map Input panel.
 
