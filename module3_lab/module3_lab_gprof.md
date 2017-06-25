@@ -49,7 +49,7 @@ Ranks: [MesenchymalvsImmunoreactive_RNAseq_ranks.rnk](https://github.com/bioinfo
 
 Classes: [MesenchymalvsImmunoreactive_RNAseq_classes.cls](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module3_lab/EM_gProfiler_data/MesenchymalvsImmunoreactive_RNAseq_classes.cls)
 
-Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip (https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
+Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip](https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
 Download the file on your computer and unzip the .gmt file before using it. 
 
 Optional: you could use the g:Profiler result file and the .gmt file you have saved from module 2.
@@ -80,7 +80,7 @@ Create an EnrichmentMap
 
 *	in *User Input* : (load results files by clicking on the respective (...) button and selecting the file)
 
-  *	GMT - not required. This field should remain empty. TIP: If you are creating an Enrichment Map with generic results from some other program and it lacks a column listing the genes belonging to each set then you need to specify a gmt file outlining the genes belonging to each set.
+  *	GMT - hsapiens.pathways.NAME.gmt.zip
   *	Expression - MesenchymalvsImmunoreactive_RNSseq_expression.txt TIP: This field is optional but recommended
   *	Enrichments - gprofiler_results_mesenchymal.txt TIP: only field that is not optional
 
