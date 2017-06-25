@@ -49,7 +49,7 @@ Ranks: [MesenchymalvsImmunoreactive_RNAseq_ranks.rnk](https://github.com/bioinfo
 
 Classes: [MesenchymalvsImmunoreactive_RNAseq_classes.cls](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module3_lab/EM_gProfiler_data/MesenchymalvsImmunoreactive_RNAseq_classes.cls)
 
-Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip (https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/Pathways_2017/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
+Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip (https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
 Unzip the .gmt file before using it. 
 
 ## Step 1
@@ -95,8 +95,6 @@ Create an EnrichmentMap
   *	Set Q-value cut off to 0.0001 TIP: to set threshold to very small numbers select Scientific Notation and set Q-value cut off to 1E-04
  
   *	Select *Jaccard* similarity cutoff and set the value to 0.25 
-
-![EM17](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM17.png?raw=true)
 
 ![EM17](https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/img/EM17.png?raw=true)
  
