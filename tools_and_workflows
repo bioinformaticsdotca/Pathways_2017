@@ -1,2 +1,23 @@
+---
+layout: tutorial_page
+permalink: /pathways_2017_tools_and_workflows
+title: Pathways
+header1: Workshop Pages for Students
+header2: Pathway and Network Analysis of -Omics Data 2017
+image: /site_images/CBW_pathway_icon.jpg
+home: https://bioinformaticsdotca.github.io/pathways_2017
+---
+
+### Pathway and Network Analysis: tools and workflows
+
+Link to tutorials:
+http://pathwaycommons.github.io/guide/ [development version]
+
+Link to OMIC TOOLS which is a searching engine for omics tools:
+for example you can search with the keywords 'gene-set enrichment and GWAS':
+https://omictools.com
+
+
+
 
 
