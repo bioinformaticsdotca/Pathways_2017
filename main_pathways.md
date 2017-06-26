@@ -52,13 +52,13 @@ Coming soon!
   
 ## Module 3: Network Visualization and Analysis with Cytoscape 
 
-  *<font color="#827e9c">Gary Bader and Veronique Voising</font>*  
+ *<font color="#827e9c">Gary Bader and Veronique Voising</font>*  
   
-    [Lecture](https://bioinformatics.ca/pathways-2017-mod3a)  
+ [Lecture](https://bioinformatics.ca/pathways-2017-mod3a)  
     
-    [Lecture](https://bioinformatics.ca/pathways-2017-mod3b)
+ [Lecture](https://bioinformatics.ca/pathways-2017-mod3b)
   
-  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1) 
+ [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1) 
  
 
 # Day 2 <a id="day2"></a>
