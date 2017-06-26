@@ -40,26 +40,30 @@ Coming soon!
   
   [Lecture](https://bioinformatics.ca/pathways-2017-mod1)   
     
-##  Module 2: Module 2: Finding Over-Represented Pathways 
+##  Module 2 Finding Over-Represented Pathways 
 
-  *<font color="#827e9c">Gary Bader</font>*
+  *<font color="#827e9c">Quaid Morris</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod2)  
+  [Lecture](https://bioinformatics.ca/pathways-2017-mod2) 
   
-  [Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_1)  
-  
-  [Lab practical part 2](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_2)  
+  *<font color="#827e9c">Veronique Voisin</font>*
+
+[Introduction to practical lab](https://bioinformatics.ca/pathways-2017-mod2lab)
+[Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_1)  
+[Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io//pathways_2017_module2_lab_2)  
   
 ## Module 3: Network Visualization and Analysis with Cytoscape 
 
- *<font color="#827e9c">Gary Bader and Veronique Voising</font>*  
+ *<font color="#827e9c">Gary Bader</font>*  
   
- [Lecture](https://bioinformatics.ca/pathways-2017-mod3a)  
+ [Lecture part 1](https://bioinformatics.ca/pathways-2017-mod3a)  
     
- [Lecture](https://bioinformatics.ca/pathways-2017-mod3b)
-  
- [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1) 
+ [Lecture part 2](https://bioinformatics.ca/pathways-2017-mod3b)  
  
+ *<font color="#827e9c">Veronique Voisin</font>*
+[Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1)  
+[Lab practical part 2](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_2)  
+
 
 # Day 2 <a id="day2"></a>
 
