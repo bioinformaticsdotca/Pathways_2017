@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /pathways_2017_module2_lab_1
+permalink: /pathways_2017_module2_lab_2
 title: Pathways
 header1: Workshop Pages for Students
 header2: Pathway and Network Analysis of Omics Data Lab 2
