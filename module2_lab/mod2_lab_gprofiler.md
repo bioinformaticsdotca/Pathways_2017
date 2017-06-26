@@ -92,7 +92,7 @@ Deselect all the other gene-set boxes.
 
 #### Options
 
-![Options](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA20.png?raw=true)
+![Options](https://github.com/bioinformaticsdotca/Pathways_2017/Pathways_2017/blob/master/img/ORA20.png?raw=true)
 
 #### Gene-sets
 
