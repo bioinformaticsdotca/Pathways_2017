@@ -62,8 +62,10 @@ Coming soon!
     
  [Lecture part 2](https://bioinformatics.ca/pathways-2017-mod3b)  
  
- *<font color="#827e9c">Veronique Voisin</font>*
-[Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1)  
+ *<font color="#827e9c">Veronique Voisin</font>*  
+ 
+[Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_1)   
+
 [Lab practical part 2](http://bioinformaticsdotca.github.io/pathways_2017_module3_lab_2)  
 
 
