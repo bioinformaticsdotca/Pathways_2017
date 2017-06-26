@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /high-throughput_biology_2017_module14_lab_1
-title: HT-Biology Lab 14.1
+permalink: /pathways_2017_module3_lab_1
+title: Pathways
 header1: Workshop Pages for Students
-header2: High-Throughput Biology - From Sequence to Networks Module 14.1 Lab
-image: /site_images/CBW-CSHL-graphic-square.png
-home: https://bioinformaticsdotca.github.io/high-throughput_biology_2017
+header2: Pathway and Network Analysis of Omics Data Lab 3 Part 1
+image: /site_images/CBW_pathway_icon.jpg
+home: https://bioinformaticsdotca.github.io/pathways_2017
 ---
 
 **This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). This means that you are able to copy, share and modify the work, as long as the result is distributed under the same license.**
