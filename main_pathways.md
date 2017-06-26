@@ -46,11 +46,13 @@ Coming soon!
   
   [Lecture](https://bioinformatics.ca/pathways-2017-mod2) 
   
-  *<font color="#827e9c">Veronique Voisin</font>*
+  *<font color="#827e9c">Veronique Voisin</font>*  
 
-[Introduction to practical lab](https://bioinformatics.ca/pathways-2017-mod2lab)
-[Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_1)  
-[Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io//pathways_2017_module2_lab_2)  
+[Introduction to practical lab](https://bioinformatics.ca/pathways-2017-mod2lab)  
+
+[Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_1)    
+
+[Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io//pathways_2017_module2_lab_2)    
   
 ## Module 3: Network Visualization and Analysis with Cytoscape 
 
