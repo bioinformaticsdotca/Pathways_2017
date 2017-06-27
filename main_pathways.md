@@ -93,6 +93,8 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 [Assignment link](http://bioinformaticsdotca.github.io/pathways_2017_IA) 
 
+[gProfiler file](https://github.com/bioinformaticsdotca/Pathways_2017/raw/master/integrated_assignment_1/hsapiens.pathways.NAME.gmt)  
+
 [Assignment answers link](http://bioinformaticsdotca.github.io/pathways_2017_IA_answers) 
 
 # Day 3 <a id="day3"></a>
