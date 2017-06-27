@@ -32,14 +32,14 @@ o	Hint: Right-click on selected pathway in Table Panel, and click “View in Dia
 **Example 2: Network-based analysis of GBM gene-sample data** 
 o	Open up Cytoscape.   
 o	Go to Apps>Reactome FI and Select “Gene Set/Mutational Analysis”.    
-o	Choose “2015 (Latest)” Version.   
+o	Choose “2016 (Latest)” Version.   
 o	Upload/Browse [GBM_genesample.txt](https://raw.githubusercontent.com/bioinformaticsdotca/HT-Biology_2017/master/GBM_genesample.txt) file.   
 o	Select “Gene/sample number pair” and Choose sample cutoff value of 4.   
 o	Select “Fetch FI annotations”.   
 o	Click OK.  
 
 1.	Describe the size and composition of the GBM sub-network?  
-2.	What are the driver mutations?  
+2.	What are the most frequently mutated genes?
 3.	Describe the TP53-PEG3 interaction, and the source information to support this interaction?  
 4.	Describe the data sources for the TAF1-TAF7L FI?  
 5.	After clustering, how many modules are there?   
@@ -51,7 +51,7 @@ o	Hint: You don’t need to list them all!
 **Example 3: Network-based analysis of OvCa somatic mutation**   
 o	Open up Cytoscape.   
 o	Go to Apps>Reactome FI and Select “Gene Set/Mutational Analysis”.    
-o	Choose “2015 (Latest)” Version.   
+o	Choose “2016 (Latest)” Version.   
 o	Upload/Browse [OVCA_TCGA_MAF.txt](https://raw.githubusercontent.com/bioinformatics-ca/bioinformatics-ca.github.io/master/2016_workshops/cancer/OVCA_TCGA_MAF.txt) file.   
 o	Select “NCI MAF” (Mutation Annotation File) and Choose sample cutoff value of 4.   
 o	Do not select “Fetch FI annotations”.   
@@ -60,7 +60,7 @@ o	Click OK.
 1.	Describe the size and composition of the OvCa network?  
 2.	What are the most frequently mutated genes?  
 3.	After clustering, how many modules are there?   
-4.	How many pathway gene sets are there in Module 0 when the FDR Filter is set to 0.005 and Module Size Filter to 10?  
+4.	How many pathway gene sets are there in Module 1 when the FDR Filter is set to 0.005 and Module Size Filter to 10?  
 o	Hint: Analyze Module Functions>Pathway Enrichment. Select appropriate filters at each step.  
 5.	What are the most significant pathway gene sets in Module 0, 2, 3 and 5?   
 6.	Do the GO Biological Process annotations correlate with the significant pathway annotations for Module 0?   
