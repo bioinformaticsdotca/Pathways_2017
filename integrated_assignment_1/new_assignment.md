@@ -91,11 +91,15 @@ Create an EnrichmentMap to visualize the outputs from g:Profiler.
 
 2.  Go: Apps &gt; EnrichmentMap &gt; Create Enrichment Map
 
-3.  Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NC samples. Upload files into app and build the map. Use the expression file  [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt) file (right click, save link as). The expression file has to be uploaded in the "expression" field located above the "enrichment result" box.  In parameters, use P-value Cutoff of 1 and FDR Q-value Cutoff of 0.05. Create 2 EnrichmentMaps, 1 for BE and 1 for NC
+3.  Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NC samples. 
+ * Upload the files from your g:Profiler run (1 g:Profiler output file and the g:Profiler /gmt file, see module 2 lab if you need more instructions] into EnrichmentMap. 
+ * Use the expression file  [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt) file (right click, save link as). The expression file has to be uploaded in the "expression" field located above the "enrichment result" box.  
+ * In parameters, use P-value Cutoff of 1 and FDR Q-value Cutoff of 0.05. Create 2 EnrichmentMaps, 1 for BE and 1 for NC
+ * Build the map.
 
 4.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Node size is proportional to the number of genes in this pathway, intensity of the node color represents the enrichment strength and edge weight is relative to the number of genes shared between connected nodes.
 
-5.  Try different layouts. For example: Layouts -&gt; yFiles Layouts -&gt; Organic; Move nodes around to be able to read the labels.
+5.  Try different layouts. For example: Layouts -> yFiles Layouts -> Organic. Move nodes around to be able to read the labels.
 
 6.   Select a node of your choice. When the node is highlighted, the expression profile of all genes included in this pathway appears in the *Heat Map (nodes)* viewer tab. Get familiar with the options provided by this panel. Save expression Set.
 
@@ -103,7 +107,7 @@ Create an EnrichmentMap to visualize the outputs from g:Profiler.
 
 8.  Select several nodes and edges. *Heat Map (nodes)* will show the union of all genes in the selected gene sets. *Heat Map (edges)* will show only those genes that all selected sets have in common.
 
-9.  Go to View -&gt; Show Results Panel. Change q-value (FDR) as well as similarity cutoffs and see how the network changes. Redo the layout. Save the file.
+9.  Go to View -> Show Results Panel. Change q-value (FDR) as well as similarity cutoffs and see how the network changes. Redo the layout. Save the file.
 
 **Question** What conclusions can you make based on these networks?
 
