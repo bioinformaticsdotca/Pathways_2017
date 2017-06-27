@@ -187,6 +187,7 @@ Hint: select only "Physical interactions" in "Advanced Options" paramaters of th
 
 !Warning: Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
 
+The network may look slightly different compared to above screenshots as the geneMANIA underlying pathway database has been recently updated.
 
 ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
