@@ -91,7 +91,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
   
 ## Integrated Assignment
 
-[Assignment link](http://bioinformaticsdotca.github.io/epigenomics_2017_integrated_assignment) 
+[Assignment link](http://bioinformaticsdotca.github.io/pathways_2017_IA) 
+
+[Assignment answers link](http://bioinformaticsdotca.github.io/pathways_2017_IA_answers) 
 
 # Day 3 <a id="day3"></a>
 
