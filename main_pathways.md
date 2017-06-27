@@ -101,7 +101,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Wyeth Wasserman</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod6)
+  [Lecture](https://bioinformatics.ca/pathways-2017-mod6)  
+  
+  [Lab lecture](https://bioinformatics.ca/pathways-2017-mod6lab)  
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module6) 
 
