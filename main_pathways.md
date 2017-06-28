@@ -111,6 +111,6 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 ***
 
-Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey]().
+Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey](https://goo.gl/forms/OdQOFQJB3AJlgCg22).
 
 ***
