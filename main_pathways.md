@@ -109,6 +109,12 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module6) 
 
+## Final Thoughts  
+
+*<font color="#827e9c">Veronique Voisin</font>*   
+
+[Lecture](https://bioinformatics.ca/pathways-2017-modfinal)  
+
 ***
 
 Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey](https://goo.gl/forms/OdQOFQJB3AJlgCg22).
