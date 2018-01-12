@@ -30,23 +30,25 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
   *<font color="#827e9c">Ann Meyer</font>* 
 
-[Lecture](https://bioinformatics.ca/pathways-2017-mod0)  
-
 ##  Module 1: Introduction to Pathway and Network Analysis 
 
   *<font color="#827e9c">Gary Bader</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod1)   
+  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1bD6XL62y5dSsWTR13Im-Vhf1RAddguxR/view?usp=sharing)   
+  
+  [Recording](https://youtu.be/lcfrqe3gvr4)  
     
 ##  Module 2 Finding Over-Represented Pathways 
 
-  *<font color="#827e9c">Quaid Morris</font>*
+  *<font color="#827e9c">Gary Bader</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod2) 
+  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1lazqrC-xS0GKz05erNOxQx8rmCQgcEm9/view?usp=sharing) 
+  
+  [Recording](https://youtu.be/LyY_42YV2LM)  
   
   *<font color="#827e9c">Veronique Voisin</font>*  
 
-[Introduction to practical lab](https://bioinformatics.ca/pathways-2017-mod2lab)  
+[Introduction to practical lab](https://drive.google.com/a/bioinformatics.ca/file/d/10BBEbPjol06-PJgXvXtobeQc_t6fduZa/view?usp=sharing)  
 
 [Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2017_module2_lab_1)    
 
@@ -56,9 +58,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
  *<font color="#827e9c">Gary Bader</font>*  
   
- [Lecture part 1](https://bioinformatics.ca/pathways-2017-mod3a)  
+ [Lecture part 1](https://drive.google.com/a/bioinformatics.ca/file/d/18iJJ5F8kISfdmzHcgLtiqnVRFR3G_T1V/view?usp=sharing)  
     
- [Lecture part 2](https://bioinformatics.ca/pathways-2017-mod3b)  
+ [Lecture part 2](https://drive.google.com/a/bioinformatics.ca/file/d/1bIGReR1FsxfygXGLiGUvlPmjLJ_DPCcV/view?usp=sharing) 
+ 
+ [Recording](https://youtu.be/DRbipdUSqyk)  
  
  *<font color="#827e9c">Veronique Voisin</font>*  
  
@@ -73,9 +77,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
   *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod4)  
+  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1OCFNdimk-oOKg9WqfvV4xcKdGrLRH90q/view?usp=sharing)  
   
-  [Lab Lecture](https://bioinformatics.ca/pathways-2017-mod4lab)
+  [Recording](https://youtu.be/_4IvL1VAtmU)  
+  
+  [Lab Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1-riN1igtKDG6rIyfr-W5nuanKt-yexcj/view?usp=sharing)
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module4_lab)
 
@@ -84,7 +90,9 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
   *<font color="#827e9c">Quaid Morris</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod5)
+  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/12nmOe5X8oIervzZkreo_IYs3xGK63q9a/view?usp=sharing)  
+  
+  [Recording](https://youtu.be/O1E2prJ90h8)  
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module5)  
   
@@ -103,9 +111,11 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 *<font color="#827e9c">Wyeth Wasserman</font>*
   
-  [Lecture](https://bioinformatics.ca/pathways-2017-mod6)  
+  [Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1VCnj0LR1S2pEpQris8sUMxNiayiI-DOG/view?usp=sharing)  
   
-  [Lab lecture](https://bioinformatics.ca/pathways-2017-mod6lab)  
+  [Recording](https://youtu.be/c1TT_ByIWXI)
+  
+  [Lab lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1L2On49MXkwEtEGG6nM6u0-k0EIy4noZ2/view?usp=sharing)  
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2017_module6) 
 
