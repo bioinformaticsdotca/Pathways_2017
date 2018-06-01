@@ -5,6 +5,9 @@ title: Pathways
 header1: Workshop Pages for Students
 header2: Pathways and Network Analysis of -Omics Data 2017
 image: /site_images/CBW_pathway_icon.jpg
+keywords: Gene list, predict gene function, identify master regulators
+instructors: Gary Bader, Quaid Morris, Veronique Voisin, Lincoln Stein, Robin Haw, Wyeth Wasserman
+length: 3 days
 ---
 # Welcome <a id="welcome"></a>
 
