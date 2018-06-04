@@ -7,7 +7,7 @@ header2: Pathway and Network Analysis of Omics Data Lab 3 Part 1
 image: /site_images/CBW_pathway_icon.jpg
 home: https://bioinformaticsdotca.github.io/pathways_2017
 description: Network Visualization and Analysis with Cytoscape
-author:Veronique Voisin
+author: Veronique Voisin
 modified: June 27th 2017
 ---
 
