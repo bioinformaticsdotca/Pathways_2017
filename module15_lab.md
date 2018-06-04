@@ -6,7 +6,7 @@ header1: Workshop Pages for Students
 header2: Pathway and Network Analysis of Omics Data Lab 4
 image: /site_images/CBW_pathway_icon.jpg
 home: https://bioinformaticsdotca.github.io/pathways_2017
-description: Practica Lab Reactome
+description: Practical Lab Reactome
 author: Robin Haw
 modified: June 27th 2017
 ---
