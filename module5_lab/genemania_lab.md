@@ -6,6 +6,9 @@ header1: Workshop Pages for Students
 header2: Pathway and Network Analysis of Omics Data Lab 5
 image: /site_images/CBW_pathway_icon.jpg
 home: https://bioinformaticsdotca.github.io/pathways_2017
+description: Practical Lab GeneMANIA
+author: Quaid Morris and Veronique Vosin
+modified: June 28th 2017
 ---
 
 **This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). This means that you are able to copy, share and modify the work, as long as the result is distributed under the same license.**
